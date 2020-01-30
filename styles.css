@@ -1,0 +1,97 @@
+/*
+Name: Lily Chua
+filename: country.php
+Purpose: final project CS268 
+*/
+.wrapper{
+	background-color:blue;
+	padding:5px;
+	position: absolute;
+    bottom: 8px;
+    left: 16px;
+	
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+	
+}
+
+.homebgimg{
+	 height: 100%;
+	background-image: url("background/balloon.jpg");
+    background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title{
+	color:aqua;
+	font-size:50px;
+	text-align:center;
+	
+}
+
+#title::before{
+	
+	content:"Welcome To ";
+}
+
+#title::after{
+	
+	content:" !";
+}
+
+.container-fluid{
+	padding:10px;
+	margin :auto;
+	
+}
+
+
+
+.flags:hover .image {
+  opacity: 0.8;
+}
+
+
+#wrapperLogin{
+	text-align:left;
+	margin:auto;
+	width:90%;
+	padding:10px;
+	
+}
+
+.section{
+	margin:auto;
+	padding:10px;
+}
+
+
+.pic{
+	width:100%;
+	max-height: 400px;
+	max-width: 400px;
+}
+
+.loginbgimg{
+	 height: 100%;
+	background-image: url("background/plane.jpg");
+    background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.profilebg{
+	background-color:white;
+	margin:auto;
+	width:1200px;
+	border:15px solid orange;
+	border-radius: 10px;
+	padding:10px;
+	position:relative;
+}
+
