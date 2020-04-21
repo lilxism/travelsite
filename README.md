@@ -1,7 +1,7 @@
 # travelsite
-Final project for web system class. (Used approximately two weeks)
-Using only HTML, CSS, PHP and Bootstrap.
-Uploaded using git uploads.
 
-The original idea is to create a website that provide information of the tourist sites in Southeast Asia.
+Final project for web system class (CS268). (approximately two weeks)
+Using HTML, CSS, PHP and Bootstrap.
+
+The idea is to create a website that provide information of the tourist sites in Southeast Asia.
 Users can add comments. (can act as references for other users)
